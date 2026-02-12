@@ -1,1 +1,2 @@
-const jenisHewan = ["mamalia", "burung", "ikan", "reptil", "amfibi"]
+export const jenisHewan = ["mamalia", "burung", "ikan", "reptil", "amfibi"]
+
