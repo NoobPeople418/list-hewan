@@ -1,2 +1,2 @@
-export const namaHewan = ["Ayam", "harimau", "gajah", "gagak"]
+export const namaHewan = ["Ayam", "harimau", "gajah", "gagak", "jerapah"]
 
